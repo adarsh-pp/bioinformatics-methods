@@ -37,3 +37,5 @@ This repository is designed as a lightweight reference for commonly used bioinfo
 ## 🚀 Usage
 
 Browse individual files for specific tasks and commands.
+
+_Last updated: May 2026_
